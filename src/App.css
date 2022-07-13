@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.actorPic{
+  width: 60px;
+}
+
+#buttons{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+}
